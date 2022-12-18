@@ -2,24 +2,21 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=BoYoung&fontSize=90" />
 </div>
 <div align="center">
-Developers looking to the future rather than the present
-  
+
 Hi there 👋
 
-미래를 보는 개발자 김현민입니다."
+실패를 두려워하지 않는 개발자 이보영입니다."
 
-Let's not be conceited! 
- 
-코딩은 혼자하는게 아닙니다.
-협업을 위해 배려하며, 성장하기 위해 노력합니다.
+"실패에 낙담 말라. 긍정적인 경험이 될 수 있다. 어떤 의미에서 실패는 성공으로 가는 고속도로와 같다. 오류를 발견할 때마다 진실을 열심히 추구하게 되고, 새로운 경험을 할 때마다 신중히 피해야 할 오류를 알게 되기 때문이다."
+
+Don't be discouraged by a failure. It can be a positive experience. Failure is, in a sense, the highway to success, inasmuch as every discovery of what is false leads us to seek earnestly after what is true, and every fresh experience points out some form of error which we shall afterwards carefully avoid.
 
 서로에게 도움이 되는 개발자 되어가요‼
 </div> 
 <hr> 
 <div align="center">
 ❤️ I love...
-  
-📸사진🏂스노우보드  
+
 </div>
 <hr> 
 <br> 
