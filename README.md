@@ -11,7 +11,7 @@ Hi there 👋
 
 Don't be discouraged by a failure. It can be a positive experience. Failure is, in a sense, the highway to success, inasmuch as every discovery of what is false leads us to seek earnestly after what is true, and every fresh experience points out some form of error which we shall afterwards carefully avoid.
 
-서로에게 도움이 되는 개발자 되어가요‼
+
 </div> 
 <hr> 
 <div align="center">
