@@ -42,11 +42,11 @@ Don't be discouraged by a failure. It can be a positive experience. Failure is, 
 <div align="center">
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bong2ee&show_icons=true&theme=radical) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bong2ee&layout=compact&theme=dracula)](https://github.com/metleeha)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bong2ee&layout=compact&theme=dracula)](https://github.com/bong2ee)
 
   </div>
 <!--
-**coocoo08/coocoo08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bong2ee/bong2ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
