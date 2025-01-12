@@ -40,13 +40,16 @@ Don't be discouraged by a failure. It can be a positive experience. Failure is, 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
 </div><br>
 <hr> 
+
+
+<!-- 
 <div align="center">
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bong2ee&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bong2ee&layout=compact&theme=dracula)](https://github.com/bong2ee)
 
   </div>
-<!--
+
 **bong2ee/bong2ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
